@@ -74,80 +74,74 @@ Onyx
 Irrian Trickster
 Keres
 
-Draconian Queen (3)
-Smog Tank (2)
-Blight Crusher (2)
-Blood Pool (3)
-Sinew Feeder (2)
-Entanglier
-Petrisis' Thug (2)
-Hovel Hoarder (3)
-Tiamat (2)
-Aegis (0)
-Windreaver (0)
-Absorption Shield (2)
-Blackrock (3)
-Brasshouse
-Minotaur (2)
-Havoc (3)
-Bulldozer (2)
-Iron Maiden (2)
-Missile Silo (2)
-Demon of Embers (3)
-Frenzied Barrager
-Vigil (2)
-Contaminant Scour (2)
-Equalizer (3)
-Sanctuary (2)
-Falcion (4)
-Gigantos (2)
-Dreadship (3)
-Xeno Mothership (3)
-Daemon (2)
-Genetics Pit
-Malgoth (8)
-Burrower (2)
-Zorbo (3)
-Scamper (2)
-Grotesque (2)
-Octane's Base
-Auger (2)
-Emerald Rider (4)
-All Purpose
-AD4M (4)
-Buggy (4)
-Munitions (3)
-Vincentius (2)
-Omega
-Primus (4)
-Trench (2)
-Quake (2)
-Wraith (4)
-Gladius (4)
-Head of Rituals
-Dion (2)
-Benediction (7)
-Ayrkrane (3)
-Gallant Knight
-Messiar
-meld
-Divinity (4)
-Chevalier
-Oroshi (4)
-Briareos (3)
-Beama
-Apex
-Neo Excavator
-Tazerok
-Astral Strafer (3)
-Skulker
-Incendiary Drifter (4)
-Nighthawk
-Dark Covert (3)
-Howler (4)
-Tikal (2)
-Dreamweaver (2)
-Lucidier (2)
-Omenosis (4)
-Arsha the Bound (3)
+
+// Draconian Queen (2)
+// Smog Tank (2)
+// Blight Crusher (2)
+// Blood Pool (2)
+// Sinew Feeder 
+// Entanglier
+// Petrisis' Thug (2)
+// Tiamat (2)
+// Aegis (0)
+// Windreaver (0)
+// Absorption Shield (2)
+// Blackrock (3)
+// Minotaur (2)
+// Havoc (3)
+// Bulldozer (2)
+// Iron Maiden (2)
+// Missile Silo (2)
+// Demon of Embers (2)
+// Vigil (2)
+// Contaminant Scour (2)
+// Equalizer (2)
+// Sanctuary (2)
+// Falcion (2)
+// Gigantos (2)
+// Dreadship (2)
+// Xeno Mothership (2)
+// Daemon (2)
+// Genetics Pit
+// Malgoth (5)
+// Burrower (2)
+// Zorbo (3)
+// Scamper (2)
+// Grotesque (2)
+// Auger (2)
+// AD4M (4)
+// Buggy (4)
+// Munitions (3)
+// Vincentius (2)
+// Omega
+// Primus (4)
+// Trench (2)
+// Quake (2)
+// Gladius (4)
+// Head of Rituals
+// Dion (2)
+// Benediction (7)
+// Ayrkrane (3)
+// Gallant Knight
+// Messiar
+// meld
+// Divinity (4)
+// Chevalier
+// Oroshi (4)
+// Briareos (3)
+// Beama
+// Apex
+// Neo Excavator
+// Tazerok
+// Astral Strafer (3)
+// Skulker
+// Incendiary Drifter (4)
+// Nighthawk
+// Dark Covert (3)
+// Howler (4)
+// Tikal (2)
+// Dreamweaver (2)
+// Lucidier (2)
+// Omenosis (4)
+// Arsha the Bound (3)
 

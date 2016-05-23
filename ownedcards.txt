@@ -1,3 +1,4 @@
+Tazerious
 
 Malort
 Halcyon
@@ -75,6 +76,7 @@ Irrian Trickster
 Keres
 
 
+
 // Draconian Queen (2)
 // Smog Tank (2)
 // Blight Crusher (2)
@@ -144,4 +146,14 @@ Keres
 // Lucidier (2)
 // Omenosis (4)
 // Arsha the Bound (3)
-
+// Wastes Craft
+// Neocyte Soldier (2)
+// Keres
+// Astral Strafer
+// Tazerok (2)
+// Tazerecca
+// Iron Maiden
+// Toxin Tank
+// Emerging Basilisk
+// Bluster
+// Subterran Horror

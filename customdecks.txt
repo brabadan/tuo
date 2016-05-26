@@ -1,3 +1,35 @@
+HOBrawl: /^(HOBrawl_uber|HOBrawl_high|HOBrawl_low)$/
+HOBrawl_low: /^HOBrawl_low_\d\d$/
+HOBrawl_uber: /^HOBrawl_uber_\d\d$/
+HOBrawl_high: /^HOBrawl_high_\d\d$/
+HOBrawl_low_01: General Barracus, Surn of the Dark, Atomic Wardriver, Sinuous Dam, Atomic Wardriver, Magnum Turbo, Ward Bombardier, Deserted Baughe #2, Traversable Armory
+HOBrawl_low_02: Daedalus, Vizier Shurixin, Sinuous Dam, Infernal Diabolic, Ozone Aggressor, Bullet Virtuoso, Vizier Shurixin, Bullet Virtuoso, Vizier Shurixin, Aviators of Tabernacle
+HOBrawl_low_03: Daedalus Enraged, Vizier Shurixin, Infernal Diabolic, Inquisitor's Domain, Vizier Shurixin, Ozone Aggressor, Zorbo the Master #2, Sleek Beamshot
+HOBrawl_low_04: Daedalus Enraged-1, Magnum Turbo, Lead Chancellor, Inquisitor's Domain, Lt. Col. Jane Duke, Magnum Turbo, Ozone Aggressor, Lt. Col. Jane Duke, Minotaur of Labyrinth, Lt. Col. Jane Duke, Suped Munitions
+HOBrawl_low_05: Dracorex Hivelord, Plague Belcher, Stonewall Garrison #2, Plague Belcher, Vile Emergence, Inquisitor's Rule, Overmind Bane, Sinuous Dam, Vile Emergence
+HOBrawl_low_06: Dracorex Hivelord, Plague Belcher, Sinuous Dam, Plague Belcher, Hreshaw'roc, Ozone Aggressor, Plague Belcher, Chrysaor #2, Aviators of Tabernacle
+HOBrawl_low_07: Lord Halcyon-1, Ambush Neutralizer, Magnum Turbo, Sinuous Dam, Lt. Col. Jane Duke #2, Ozone Aggressor, Bullet Virtuoso #3, Vizier Shurixin
+HOBrawl_low_08: Nexor the Seer-1, Plague Belcher, Ultimata Ragefueled, Sinuous Dam, Infernal Diabolic, Thrilling Howler, Ozone Aggressor, Aviators of Tabernacle, Pegslayer, Arch Nova Alpha, Entangler Vast
+HOBrawl_low_09: Silus the Corrupt-1, Vlade's Wastes Ark, Atomic Wardriver, Sinuous Dam, Atomic Wardriver, Mangle Loader, Erebus City Sector, Mangle Loader, Ozone Aggressor, Extreme Barrager
+HOBrawl_low_10: Silus the Corrupt-1, Vlade's Wastes Ark, Sinuous Dam, Extreme Barrager, Atomic Wardriver, Dragan the Inferno, Atomic Wardriver, Mangle Loader #2, Ozone Aggressor, Master of Rituals
+HOBrawl_low_11: Typhon Vex, Plague Belcher, Sinuous Dam, Red Maw Turrets, Plague Belcher, Arsha Transcendent, Ozone Aggressor, Inquisitor's Rule, Nettle Miscreant, Vrost's Alcazar
+HOBrawl_high_01: Arkadios, Wyrm of the Pit, Valley Glider, Council's Contradictor, Wyrm of the Pit, Orbo the Wrathful, Yurich's Observatory, Council's Contradictor, Sinuous Dam, Chrysaor, Ozone Aggressor
+HOBrawl_high_02: Daedalus Enraged-1, Eater of Mortals, Wyrm of the Pit, Valley Glider, Sinuous Dam, Slendatomic, Loathe Abysswing, Valley Glider, Grand Counsul Xavis, Chrysaor, Slendatomic
+HOBrawl_high_03: Daedalus Enraged, Yurich's Observatory, Gravel Shaper #3, Sinuous Dam, Pegslayer, Loathe Abysswing, Gravel Shaper, Yurich's Observatory
+HOBrawl_high_04: Tabitha Exiled-1, Sinuous Dam, Atmos Flyer, Collapser Deadline, Magnum Turbo, Minotaur of Labyrinth, Lt. Col. Jane Duke, Charged Booster, Atmos Flyer, Wavecrasher Extreme, Ozone Aggressor
+HOBrawl_high_05: Daedalus Enraged-1, Valley Sculptor, Vizier Shurixin, Deep Lurker, Suped Munitions, Pithius, Ozone Aggressor, Zorbo the Master, Sleek Beamshot #2
+HOBrawl_high_06: Daedalus Enraged-1, Slendatomic, Sinuous Dam, Grand Counsul Xavis, Wolf Weaponized, Loathe Abysswing #2, Wolf Weaponized, Grand Counsul Xavis, Sinuous Dam, Slendatomic
+HOBrawl_high_07: Daedalus Enraged-1, Alaric's Parish, Plague Belcher, Valley Glider, Plague Belcher, Chrysaora, Arsha Transcendent, Loathe Abysswing, Plague Belcher, Grand Counsul Xavis, Wolf Weaponized
+HOBrawl_high_08: General Barracus-1, Plague Belcher, Orbo the Wrathful, Forsaken Paralyzer, Magma Extractor, Yurich's Observatory, Vizier Shurixin, Arch Elder Threxor, Necrox the Demise, Constantine's Lab, Vizier Shurixin
+HOBrawl_high_09: Silus the Corrupt-1, Vlade's Wastes Ark, Red Maw Turrets, Cobalt Creeper, Atomic Wardriver, Erebus Keeper, Junk Converter, Aerial Ocelot, Corkscrew Destructor, Erebus City Sector, Extreme Barrager
+HOBrawl_high_10: Silus the Corrupt-1, Yurich's Observatory, Ridge Terra, Atomic Wardriver, Sinuous Dam, Ultimata Ragefueled, Mangle Loader #2, Ozone Aggressor, Elusive Behemoth #2
+HOBrawl_high_11: Sir Alaric-1, Orbo the Wrathful, Lokos Dusk, Council's Contradictor, Valley Glider, Council's Contradictor, Valley Glider, Orbo the Wrathful, Council's Contradictor, First Chancellor, Chrysaora
+HOBrawl_uber_01: Sir Alaric, First Chancellor, Tabernacle of Andor, Council's Contradictor, First Chancellor, Council's Contradictor, First Chancellor #2, Tabernacle of Andor, Pladius Olys #2
+HOBrawl_uber_02: Malort Blightmind, Disaster Salg, Wyrm of the Pit, Purgatory Banisher, Loathe Abysswing #4, Wyrm of the Pit, Disaster Salg, Purgatory Banisher
+HOBrawl_uber_03: Daedalus Enraged, Orbo the Wrathful, Yurich's Observatory, Wyrm of the Pit, Malevolent Villainous, Tetrapede Volt, Loathe Abysswing #3, Wyrm of the Pit, Orbo the Wrathful
+HOBrawl_uber_04: Daedalus Enraged, Orbo the Wrathful, Atmos Oppressor, Council's Contradictor, Orbo the Wrathful, Yurich's Observatory, Council's Contradictor, Loathe Abysswing #2, Atmos Oppressor, Yurich's Observatory
+HOBrawl_uber_05: Typhon the Mad, Kajin Unwavering, Fervent Griller, Alliance Rainmaker, Zoid Battered #2, Wolf Weaponized, Zoid Battered, Wolf Weaponized, Zoid Battered, Corkscrew Destructor
+
 may_brawl_easy: /^may_brawl_easy_\d\d$/
 may_brawl_easy_01: Arkadios, Plague Belcher, Sinuous Dam, Vizier Shurixin, Plague Belcher, Vrost's Alcazar, Ozone Aggressor, Stonewall Garrison, Blast Twin, Overmind Bane, Nettle Miscreant
 may_brawl_easy_02: Silus the Corrupt, Vlade's Wastes Ark, Extreme Barrager, Atomic Wardriver #2, Sinuous Dam, Extreme Barrager, Ozone Aggressor, Orion Survivor, Aviators of Tabernacle, Master of Rituals

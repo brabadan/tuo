@@ -1,4 +1,4 @@
-Tazerious
+Tazerious-1
 
 Malort
 Halcyon
@@ -37,7 +37,7 @@ Gunkir
 Insatiable Fiend
 Tartarus Brood
 Nightlurker
-Plague Belcher 
+Plague Belcher (2)
 
 Ezamit Tranq
 Dreamhaunter
@@ -64,24 +64,24 @@ Auger Bore
 Auger (2)
 Masterwork Aegis
 
-Overmind
-Infernal
-Sensor Driver
-Tabernacle Piloteer
-Gilgamesh
-Jyacinx
-Serraco Lord
-Onyx
-Irrian Trickster
-Keres
+Overmind-1
+Infernal-1
+Sensor Driver-1
+Tabernacle Piloteer-1
+Gilgamesh-1
+Jyacinx-1
+Serraco Lord-1
+Onyx-1
+Irrian Trickster-1
+Keres-1
 
 
 
 // Draconian Queen (2)
 // Smog Tank (2)
-// Blight Crusher (2)
+// Blight Crusher 
 // Blood Pool (2)
-// Sinew Feeder 
+// Sinew Feeder (0)
 // Entanglier
 // Petrisis' Thug (2)
 // Tiamat (2)
@@ -157,3 +157,4 @@ Keres
 // Emerging Basilisk
 // Bluster
 // Subterran Horror
+// Airship (2)
